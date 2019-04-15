@@ -54,7 +54,7 @@ Current api routes:
   * unfortunately it is nowhere near finished
 
 * What problems and/or issues did you encounter performing the assignment?
-  * Keyboard physical and virtual layout is Estonian
+  * Keyboard physical and virtual layout is Estonian. Virtual has been fixed with `setxkbmap en_US`
   * personal lack of experience with ReactJs and managing CORS
 
 * Do you have any suggestions that may help us improve this assignment?
