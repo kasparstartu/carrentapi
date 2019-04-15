@@ -1,0 +1,29 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "fastify": "^2.0.0",
+    "fastify-autoload": "^0.6.0",
+    "fastify-cli": "^1.0.0",
+    "fastify-plugin": "^1.5.0",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.5.1",
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {
+    "tap": "^12.5.3"
+  },
+  "scripts": {
+    "test": "tap test/**/*.test.js",
+    "start": "./node_modules/nodemon/bin/nodemon.js app.js",
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
