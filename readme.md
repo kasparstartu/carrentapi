@@ -48,6 +48,22 @@ Current api routes:
 * PUT `/api/1/cars/:id` updates item data
 * DELETE `/api/1/cars/:id` deletes item
 
+## FAQ
+
+* How long did it take to finish assignment?
+  * unfortunately it is nowhere near finished
+
+* What problems and/or issues did you encounter performing the assignment?
+  * Keyboard physical and virtual layout is Estonian
+  * personal lack of experience with ReactJs and managing CORS
+
+* Do you have any suggestions that may help us improve this assignment?
+  * I feel it is good as is
+
+## ToDo
+
+* car rental client
+* better car rating management
 
 ## Built With
 
