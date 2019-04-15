@@ -38,6 +38,8 @@ npm start
 
 ## Examples
 
+Currently api works on `localhost:3001` not to interfere with frontend api
+
 Current api routes:
 
 * GET `/api/1/cars` returns list of all cars
@@ -57,5 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* [Carrent-client](https://github.com/kasparstartu/carrent-client) is related tool to interact with carrent api
 * Please see my [WP Schema plugin](https://github.com/Milbergs/wp-schema-plugin)
 * Pretty thank you for your time and opportunity :)
